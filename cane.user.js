@@ -8,8 +8,8 @@
 // @version     0.4.2
 // @author      booy
 // @description 适配凯恩之角论坛移动端布局与阅读体验
-// @updateURL   https://raw.githubusercontent.com/你的用户名/cane-userscript/main/cane.user.js
-// @downloadURL https://raw.githubusercontent.com/你的用户名/cane-userscript/main/cane.user.js
+// @updateURL   https://github.com/booykean/cane-style/blob/main/cane.user.js
+// @downloadURL https://github.com/booykean/cane-style/blob/main/cane.user.js
 // ==/UserScript==
 
 (function () {
